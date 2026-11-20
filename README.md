@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет, я Дарья 👋 
 
-<!--
-**Dasha1402/Dasha1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend-разработчик из Санкт-Петербурга. Делаю адаптивные интерфейсы на React и TypeScript: от вёрстки по макету в Figma до деплоя. Сейчас ищу первую работу.
 
-Here are some ideas to get you started:
+## Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐈  **[The Cat's Cup](https://dasha1402.github.io/kotokafe-react/)** — сайт котокафе: данные по API через кастомный хук, форма с валидацией, интерактивные карточки. ([код](https://github.com/Dasha1402/kotokafe-react))
+- 🎉  **[Event Agency](https://dasha1402.github.io/event-react/)** — многостраничный сайт агентства праздников: React Router, пошаговый калькулятор стоимости, слайдер портфолио с lightbox. ([код](https://github.com/Dasha1402/event-react))
+- 👩‍💻  **[Личное портфолио](https://dasha1402.github.io/portfolio-react/)** — тёмная и светлая темы, анимации при прокрутке, адаптивное меню. ([код](https://github.com/Dasha1402/portfolio-react))
+
+## Стек
+
+**Основной:** TypeScript, JavaScript, React, Vite, HTML5, CSS3, CSS Modules
+**Библиотеки:** React Router, Framer Motion, Swiper, IMask
+**Инструменты:** Git, GitHub Pages, Figma
+
+## Чему учусь сейчас
+
+- Тестированию компонентов
+- Работе с собственным бэкендом и API
+- Глубже изучаю TypeScript и производительность React
+
+## Связаться
+
+📧  daralapina.lapina@yandex.ru
+✈️  Telegram: [@dariyadsss](https://t.me/dariyadsss)
+📞  Телефон: +7 (962) 013-50-80
